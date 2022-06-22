@@ -3,6 +3,7 @@ INSTRUCTIONS:
 Press The Number 1 Key to turn of all modes
 Press the Number 2 key to edit tas 
 press the number 3 key to play tas 
+press the number 0 key when your finished editing your tas 
 
 Press the number 4 key to rewind when editing tas
 press the number 5 key to forward when editing tas 
