@@ -7,4 +7,4 @@ Need Help If your out of the map? Unpause and pause then rewind.
 ]]
 
 settings():GetService("NetworkSettings").IncomingReplicationLag = 9999--Put it to zero if your going to load tas 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/SomeScripterInABasement/Fe2Tas/main/README.md'))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SomeScripterInABasement/rgthf/main/README.md",true))()
